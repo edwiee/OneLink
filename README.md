@@ -1,6 +1,6 @@
 # Onelink
 
-Onelink is an experimental link-in-bio tool, where the data lives in the URL. 
+Onelink is an experimental link-in-bio tool, where the data lives in the URL, designed with Nuxt and VueJS. 
 
 <img src="DEMO.png" alt="DEMO" />
 
